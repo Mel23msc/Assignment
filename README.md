@@ -1,6 +1,10 @@
+# Machine Learning models added- 
+## Decision Trees and Logistic Regression, hyper params and grid cv added, LogReg needs some extra tuning
 
-# Data Prep for Machine Learning- Part III
-## Encoded categorical variables, dropped column year, encoding returning true and false even after setting the dtype as category so replaced true false with boolean 1, 0,  checked the value counts of each target variable (Public and Private) Data was imbalanced- rebalanced with SMOTE
+
+
+## Data Prep for Machine Learning- Part III
+### Encoded categorical variables, dropped column year, encoding returning true and false even after setting the dtype as category so replaced true false with boolean 1, 0,  checked the value counts of each target variable (Public and Private) Data was imbalanced- rebalanced with SMOTE
 
 ***
 
