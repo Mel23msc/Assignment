@@ -1,5 +1,9 @@
 
-# Binomial distribution added on larger sample- Section is Part II
+# Binomial distribution added on smaller sample- Section is Part II
+
+***
+
+## Binomial distribution added on larger sample- Section is Part II
 
 ***
 
