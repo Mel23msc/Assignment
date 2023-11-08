@@ -1,9 +1,14 @@
 
-# Binomial distribution added on smaller sample- Section is Part II
+# Data Prep for Machine Learning- Part III
+## Encoded categorical variables, dropped column year, encoding returning true and false even after setting the dtype as category so replaced true false with boolean 1, 0,  checked the value counts of each target variable (Public and Private) Data was imbalanced- rebalanced with SMOTE
 
 ***
 
-## Binomial distribution added on larger sample- Section is Part II
+## Binomial distribution added on smaller sample- Part II
+
+***
+
+## Binomial distribution added on larger sample- Part II
 
 ***
 
