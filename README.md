@@ -1,4 +1,8 @@
 
+# Binomial distribution added on larger sample- Section is Part II
+
+***
+
 # Changes made to data
 ## Datasets reduced to Two. 
 ## Clearer notebook layout
