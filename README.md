@@ -1,5 +1,7 @@
-# Machine Learning models added- 
-## Decision Trees and Logistic Regression, hyper params and grid cv added, LogReg needs some extra tuning
+# 5th diagnosis added to data, Central tendency measures and std added to extract additional insights, normal distribution plots to compare pre and post covid data, line charts to support pie charts, updated figures in binom prob and visualisations, additional diagnosis added to ml model, confusion matrix plotted, removal of gender data for better continuinity of information flow
+
+## Machine Learning models added- Part IV
+### Decision Trees and Logistic Regression, hyper params and grid cv added, LogReg needs some extra tuning
 
 
 
